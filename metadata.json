@@ -1,0 +1,7 @@
+{
+  "name": "USA Real Estate Team | LPT Realty",
+  "description": "USA Real Estate Team at LPT Realty provides professional real estate guidance for buyers, sellers and investors. Contact our team to discuss your real estate goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
